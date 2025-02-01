@@ -1,0 +1,14 @@
+# Procesamiento de imágenes
+opencv-python
+
+# Manejo de arreglos numéricos
+numpy
+
+# PyTorch (versión CPU)
+torch
+torchvision
+torchaudio
+
+# Librería adicional para modelos de visión por computadora (requerido por MiDaS)
+timm
+
